@@ -1,4 +1,4 @@
-# Module 1: Introduction to Incident Handling and Response
+# Module [1]: Introduction to Incident Handling and Response
 
 ***
 ### Section [1]: [Overview of Information Security Concepts]()
